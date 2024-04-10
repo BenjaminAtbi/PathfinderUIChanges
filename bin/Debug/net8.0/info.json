@@ -1,0 +1,10 @@
+﻿{
+  "Id": "uichanges",
+  "DisplayName": "Ui Changes",
+  "Author": "belithioben",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.21.3",
+  "Requirements": [],
+  "AssemblyName": "UiChanges.dll",
+  "EntryMethod": "UIChanges.Main.Load"
+}
